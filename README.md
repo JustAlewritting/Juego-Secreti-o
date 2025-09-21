@@ -29,7 +29,11 @@ Permite a los usuarios añadir nombres a una lista y realizar un sorteo aleatori
 - **Agregar un nombre al hacer click en "Enter"**
   
 
-https://github.com/user-attachments/assets/e1195b9c-a6d5-4d11-8b9f-37025e2e15ac
+
+
+
+Uploading Agregando un nombre.mp4…
+
 
 
 - **Visualizar la lista**
