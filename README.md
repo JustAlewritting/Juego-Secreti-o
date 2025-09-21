@@ -1,5 +1,6 @@
 <h1 align="center"> Challenge del amigo secreto </h1>
-<img width="960" height="295" alt="Reto del amigo secreto" src="https://github.com/user-attachments/assets/c6c2909b-1314-4495-babb-18ddd54de470" />
+
+<img width="960" height="295" alt="Amigo Secreto" src="https://github.com/user-attachments/assets/e356f105-a67d-47d2-8b4f-bb633cfd3448" />
 
 
 ##     📖 Descripción
@@ -18,7 +19,8 @@ Permite a los usuarios añadir nombres a una lista y realizar un sorteo aleatori
 ---
 
 ## 🖼️ Capturas de pantalla
-<img width="960" height="295" alt="Mostrando el challenge" src="https://github.com/user-attachments/assets/21c1448d-5b73-4c7d-b49c-90b965ce56f1" />
+
+<img width="1311" height="401" alt="Menú" src="https://github.com/user-attachments/assets/003a99ae-8dea-4681-8d11-d57690a5615f" />
 
 ---
 
