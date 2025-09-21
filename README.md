@@ -29,24 +29,16 @@ Permite a los usuarios añadir nombres a una lista y realizar un sorteo aleatori
 - **Agregar un nombre al hacer click en "Enter"**
   
 
-
-
-
-Uploading Agregando un nombre.mp4…
-
-
-
 - **Visualizar la lista**
 
 
-https://github.com/user-attachments/assets/06932324-c395-4ebf-bb23-7992f90f83c6
+
 
 
 
 - **Sortear un amigo**
 
 
-https://github.com/user-attachments/assets/0d9f4787-c3fb-4c92-aa28-f5960c358a4d
 
 
 ---
