@@ -1,2 +1,57 @@
-# Juego-Secreti-o
-Reto propuesto por Alura Latam:))
+<h1 align="center"> Challenge del amigo secreto </h1>
+<img width="960" height="295" alt="Reto del amigo secreto" src="https://github.com/user-attachments/assets/c6c2909b-1314-4495-babb-18ddd54de470" />
+
+
+##     📖 Descripción
+Este proyecto es un *juego del Amigo Secreto*, reto propuesto por Alura Latam y desarrollado con *HTML, CSS y JavaScript*.  
+Permite a los usuarios añadir nombres a una lista y realizar un sorteo aleatorio para seleccionar el amigo secreto.
+
+---
+
+## 🚀 Funcionalidades
+-  **Agregar amigo**: Los usuarios escriben un nombre y lo añaden a la lista.  
+-  **Validación**: No se permiten campos vacíos ni nombres con números/símbolos.  
+-  **Visualización**: Los nombres ingresados aparecen en una lista visible.  
+-  **Sorteo aleatorio**: Al presionar el botón, se selecciona un nombre al azar.  
+-  **Atajo con Enter**: Presionar Enter agrega un nombre sin necesidad de hacer clic.
+
+---
+
+## 🖼️ Capturas de pantalla
+<img width="960" height="295" alt="Mostrando el challenge" src="https://github.com/user-attachments/assets/21c1448d-5b73-4c7d-b49c-90b965ce56f1" />
+
+---
+
+
+## 🖼️Vídeos de las funcionalidades
+- **Agregar un nombre al hacer click en "Enter"**
+  
+
+https://github.com/user-attachments/assets/e1195b9c-a6d5-4d11-8b9f-37025e2e15ac
+
+
+- **Visualizar la lista**
+
+
+https://github.com/user-attachments/assets/06932324-c395-4ebf-bb23-7992f90f83c6
+
+
+
+- **Sortear un amigo**
+
+
+https://github.com/user-attachments/assets/0d9f4787-c3fb-4c92-aa28-f5960c358a4d
+
+
+---
+## 🛠️ Tecnologías utilizadas
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+
+---
+
+## 📌 Instalación y uso
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/JustAlewritting/Challenge-del-amigo-secretaso
