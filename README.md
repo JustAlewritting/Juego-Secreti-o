@@ -25,23 +25,6 @@ Permite a los usuarios añadir nombres a una lista y realizar un sorteo aleatori
 ---
 
 
-## 🖼️Vídeos de las funcionalidades
-- **Agregar un nombre al hacer click en "Enter"**
-  
-
-- **Visualizar la lista**
-
-
-
-
-
-
-- **Sortear un amigo**
-
-
-
-
----
 ## 🛠️ Tecnologías utilizadas
 - **HTML5**  
 - **CSS3**  
